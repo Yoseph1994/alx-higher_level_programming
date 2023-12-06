@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 def uniq_add(my_list=[]):
-    unique_list=set(my_list)
+    traversed=[]
     sum=0
-    for unique_el in unique_list:
-        sum=sum+unique_el
+    for el in my_list:
+        if el not in traversed:
+            sum +=el
+            traversed.append(el)
     return sum
