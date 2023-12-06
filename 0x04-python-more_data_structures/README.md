@@ -1,6 +1,6 @@
 # Python - More Data Structures: Set, Dictionary
 
-In this project, we explore the concepts of sets and dictionaries in Python. We practice using these data structures along with lambda functions, map, filter, and reduce methods.
+In this project, we explore the concepts of sets and dictionaries in Python. We practice using these data structures along with lambda functions, map, filter, and reduce methods. and also its a good practice to understand comprehensions in list/tuple/set
 
 ## Function Prototypes
 
@@ -68,8 +68,9 @@ Please refer to the individual task files for detailed information on each funct
 
 Note: The tasks are implemented without using any external modules and adhere to the specified requirements.
 
-Feel free to explore and learn from the code provided in this project. Happy coding!
+Feel free to explore and learn from the code provided in this project. መልካም ግዜ!
 
 ---
 
 © 2023 Yoseph Shimelis. All rights reserved.
+© 2023 ዮሴፍ ሽመልስ. All rights reserved
